@@ -1,3 +1,7 @@
+
+ # advice-app
+This is Random Quote Generator project created with React and Fetch API. Get your daily dose of motivation and laughter from my 'advice-app', Enjoy handpicked quotes that will uplift and entertain you anytime you need a boost.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# advice-app
+
